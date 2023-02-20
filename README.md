@@ -1,3 +1,1 @@
 # MapReduce
-
-Mapper Reducer script
