@@ -1,2 +1,3 @@
 # MapReduce
-Map Reduce cpp
+
+Mapper Reducer script
